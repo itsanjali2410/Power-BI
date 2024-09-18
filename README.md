@@ -20,4 +20,4 @@ Welcome to the **Blinkit Data Analyst Project**! This project leverages Power BI
 
 Here’s a glimpse of the dashboard:
 
-![Dashboard](Images\dashboard.png)
+![Dashboard](Images/dashboard.png)
