@@ -15,3 +15,9 @@ Welcome to the **Blinkit Data Analyst Project**! This project leverages Power BI
 - **Interactive Dashboards**: Visualize key metrics with interactive charts and graphs.
 - **Data Insights**: Gain insights into customer ratings, sales trends, and inventory performance.
 - **Trend Analysis**: Track changes over time to identify patterns and anomalies.
+
+## Project Visualization
+
+Here’s a glimpse of the dashboard:
+
+![Dashboard](C:\Users\anjal\OneDrive\Desktop\dashboard.png".png)
